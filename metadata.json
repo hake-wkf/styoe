@@ -1,0 +1,6 @@
+{
+  "name": "智能家居人脸门禁控制台",
+  "description": "智能家居小程序人脸门禁机对接管理系统，支持人员录入修改、批量删除、权限分级与远程一键开门",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
